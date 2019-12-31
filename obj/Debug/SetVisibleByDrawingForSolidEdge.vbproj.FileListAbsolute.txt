@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.vbprojAssemblyReference.cache
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.Resources.resources
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.vbproj.GenerateResource.cache
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\bin\Debug\SetVisibleByDrawingForSolidEdge.exe.config
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\bin\Debug\SetVisibleByDrawingForSolidEdge.exe
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\bin\Debug\SetVisibleByDrawingForSolidEdge.pdb
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\bin\Debug\SetVisibleByDrawingForSolidEdge.xml
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.exe
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.xml
+C:\Users\Jason\source\repos\SetVisibleByDrawingForSolidEdge\obj\Debug\SetVisibleByDrawingForSolidEdge.pdb
